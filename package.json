@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "name": "jest-test",
+  "description": "Trying out Jest.",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushritPasupuleti/jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushritPasupuleti/jest-test/issues"
+  },
+  "homepage": "https://github.com/SushritPasupuleti/jest-test#readme"
+}
