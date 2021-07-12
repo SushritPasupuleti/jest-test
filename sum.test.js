@@ -6,3 +6,9 @@ test('should add 2 numbers', () => {
         sum(1, 2)
     ).toBe(3)
 })
+
+test('should add 2 numbers despite decimals', () => {
+    expect(
+        sum(1.2323444, 2.000002)
+    ).toBe(3.2323464)
+})
