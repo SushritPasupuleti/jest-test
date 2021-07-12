@@ -1,4 +1,5 @@
 const { expect } = require('@jest/globals');
+const { exception } = require('console');
 const sum = require('../sum');
 
 test('should add 2 numbers', () => {
