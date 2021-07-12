@@ -3,7 +3,7 @@ const sum = (a, b) => {
         return a + b;
     }
     else {
-        throw "pass numbers"
+        return 0;
     }
 }
 
